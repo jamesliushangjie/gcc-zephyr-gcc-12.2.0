@@ -22,10 +22,8 @@
 
 autom4te.cache
 config.cache
-config.h
 config.intl
 config.log
-config.status
 libtool
 POTFILES
 *-POTFILES
@@ -41,7 +39,6 @@ cscope.out
 .clang-tidy
 .clangd
 .cache
-compile_commands.json
 
 .gdbinit
 .gdb_history
